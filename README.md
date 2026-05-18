@@ -1,28 +1,44 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&text=AYUSH%20KUMAR%20MISHRA&fontSize=58&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20and%20CTO%20|%20Full%20Stack%20Developer%20|%20AI%20Researcher&descAlignY=58&color=gradient"/>
-</p>
+<!-- Header Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Ayush+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Digital+Universe;Co-Founder+and+CTO+@+SaralBharat+News;Full+Stack+Developer+and+Startup+Builder;AI+Researcher+%7C+CNN+%7C+Deepfake+Research;Turning+Ideas+into+Products+🚀"/>
-</p>
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayush's%20Universe&fontSize=50&fontColor=ffffff&animation=twinkle&fontAlignY=35" alt="Header Banner" />
+</div>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush242001&theme=tokyonight"/>
-</p>
+<br />
 
-### 🐍 Contribution Snake
-![snake](https://github.com/ayush242001/ayush242001/blob/output/github-contribution-grid-snake.svg)
+<!-- Quick Stats Dashboard -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc?username=ayush242001&color=00F0FF&style=flat-square" alt="Profile Views" />
+        <br /><b>Profile Views</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/ayush242001?style=flat-square&color=00F0FF&label=Total%20Stars" alt="Total Stars" />
+        <br /><b>Total Stars</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/ayush242001?style=flat-square&color=00F0FF&label=Followers" alt="Followers" />
+        <br /><b>Followers</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ayush242001&theme=algolia&row=1&column=7)
+---
 
-### 🚀 Featured Projects
-<a href="https://github.com/ayush242001"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush242001&repo=malware-detection&theme=tokyonight"/></a>
-<a href="https://github.com/ayush242001"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush242001&repo=deepfake-detection&theme=tokyonight"/></a>
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ayush242001&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=ayush242001&theme=tokyonight)
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush242001&layout=compact&theme=tokyonight)
-
-<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer"/></p>
+### 🚀 About Me
+```javascript
+const ayush = {
+  pronouns: "He/Him",
+  code: ["Javascript", "Python", "Java", "C++"],
+  tools: ["React", "Node.js", "MongoDB", "Docker", "AWS"],
+  challenge: "Turning coffee into code since 2001 ☕",
+  funFact: "I debug better than I sleep 😴",
+  goal: "Building scalable solutions & exploring AI"
+};
