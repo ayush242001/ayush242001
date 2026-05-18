@@ -1,11 +1,13 @@
-<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=AYUSH%20KUMAR%20MISHRA&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20|%20CNN%20|%20Deep%20Learning%20|%20M.Tech&descAlignY=58&color=gradient"/></p>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe;AI+Researcher+and+Builder;CNN+%7C+Image+Processing+%7C+Deepfake+Research;Creating+Ideas+into+Reality"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&text=AYUSH%20KUMAR%20MISHRA&fontSize=58&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20and%20CTO%20|%20Full%20Stack%20Developer%20|%20AI%20Researcher&descAlignY=58&color=gradient"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush242001&theme=github_dark"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Digital+Universe;Co-Founder+and+CTO+@+SaralBharat+News;Full+Stack+Developer+and+Startup+Builder;AI+Researcher+%7C+CNN+%7C+Deepfake+Research;Turning+Ideas+into+Products+🚀"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush242001&theme=tokyonight"/>
 </p>
 
 ### 🐍 Contribution Snake
