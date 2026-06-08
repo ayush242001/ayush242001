@@ -10,8 +10,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush242001&theme=tokyonight"/>
 </p>
 
-### 🐍 Contribution Snake
-![snake](https://github.com/ayush242001/ayush242001/blob/output/github-contribution-grid-snake.svg)
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ayush242001&theme=algolia&row=1&column=7)
